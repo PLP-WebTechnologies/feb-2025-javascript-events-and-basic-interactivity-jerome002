@@ -1,0 +1,28 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  padding: 20px;
+  background: #f0f8ff;
+}
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+#hoverBox {
+  padding: 20px;
+  background: #ffd;
+  border: 1px solid #ccc;
+  display: inline-block;
+}
+.hidden {
+  display: none;
+}
+input {
+  margin: 5px;
+  padding: 10px;
+}
+#feedback {
+  display: block;
+  margin-top: 10px;
+  color: red;
+}
